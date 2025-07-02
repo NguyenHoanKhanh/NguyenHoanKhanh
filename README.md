@@ -30,6 +30,9 @@
 
 ## 📊 GitHub stats :
 
-[[![NguyenHoanKhanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenHoanKhanh&show_icons=true&theme=tokyonight)](https://github.com/NguyenHoanKhanh/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoanKhanh&layout=tokyonight)]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoanKhanh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoanKhanh&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+</p>
+
 
