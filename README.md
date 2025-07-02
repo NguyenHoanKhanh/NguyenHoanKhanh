@@ -7,7 +7,7 @@
 
 ## Socials 🌐
 
-<div align="center">
+<div align="left">
 
 <div align="center">
   <a href="https://www.facebook.com/khanh.nguyen.97491/">
