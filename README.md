@@ -18,4 +18,4 @@
   </a>
 </div>
 
-## 💻 Tech Stack:
+## 💻 Languages and Tools:
