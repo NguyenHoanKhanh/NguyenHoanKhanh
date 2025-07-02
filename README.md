@@ -28,7 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-plain.svg" width="40" height="40" alt="Verilog" />
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <!-- Quartus -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quartus/quartus-original.svg" width="40" height="40" alt="Quartus" />
+  <!-- Quartus Prime (Wikimedia SVG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Intel_Quartus_Prime_logo.svg" width="40" height="40" alt="Quartus Prime" />
 </p>
+
 
