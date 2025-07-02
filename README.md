@@ -30,6 +30,6 @@
 
 ## 📊 GitHub stats :
 
-[![NguyenHoanKhanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenHoanKhanh&show_icons=true&theme=tokyonight)](https://github.com/NguyenHoanKhanh/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoanKhanh&layout=compact)
+[[![NguyenHoanKhanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenHoanKhanh&show_icons=true&theme=tokyonight)](https://github.com/NguyenHoanKhanh/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoanKhanh&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoanKhanh&layout=compact&theme=tokyonight)
 
