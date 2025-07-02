@@ -20,17 +20,15 @@
 
 ## 💻 Languages and Tools:
 
+## 💻 Languages & Tools
+
 <p align="center">
-  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <!-- Verilog -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-plain.svg" width="40" height="40" alt="Verilog" />
-  <!-- VS Code -->
+  <img src="./assets/verilog-logo.png" width="40" height="40" alt="Verilog" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <!-- Quartus -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quartus/quartus-original.svg" width="40" height="40" alt="Quartus" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Intel_Quartus_Prime_logo.svg" width="40" height="40" alt="Quartus Prime" />
 </p>
+
 
 
