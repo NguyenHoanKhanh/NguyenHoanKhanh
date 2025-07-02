@@ -19,15 +19,16 @@
 </div>
 
 ## 💻 Languages and Tools:
-<div align="center">
+<p align="center">
   <!-- C -->
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   <!-- C++ -->
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
   <!-- Verilog -->
-  <img src="https://img.shields.io/badge/-Verilog-EF3D23?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
-  <!-- Visual Studio Code -->
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-plain.svg" width="40" height="40" alt="Verilog" />
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <!-- Quartus -->
-  <img src="https://img.shields.io/badge/-Quartus-66194F?style=for-the-badge&logo=intelquartus&logoColor=white" alt="Quartus" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quartus/quartus-original.svg" width="40" height="40" alt="Quartus" />
+</p>
+
