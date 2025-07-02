@@ -19,7 +19,7 @@
 </div>
 
 ## 💻 Languages and Tools:
-<p align="center">
+**<p align="center">
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   <!-- C++ -->
@@ -31,5 +31,5 @@
   <!-- Quartus Prime (Wikimedia SVG) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Intel_Quartus_Prime_logo.svg" width="40" height="40" alt="Quartus Prime" />
 </p>
-
+**
 
