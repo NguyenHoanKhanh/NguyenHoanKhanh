@@ -19,3 +19,15 @@
 </div>
 
 ## 💻 Languages and Tools:
+<div align="center">
+  <!-- C -->
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <!-- Verilog -->
+  <img src="https://img.shields.io/badge/-Verilog-EF3D23?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+  <!-- Visual Studio Code -->
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <!-- Quartus -->
+  <img src="https://img.shields.io/badge/-Quartus-66194F?style=for-the-badge&logo=intelquartus&logoColor=white" alt="Quartus" />
+</div>
