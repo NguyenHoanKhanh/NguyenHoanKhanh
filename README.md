@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi My name Nguyen Hoan Khanh, I am from University of Information and Technology 👋
 
 <!--
 **NguyenHoanKhanh/NguyenHoanKhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
