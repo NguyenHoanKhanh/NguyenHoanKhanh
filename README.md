@@ -18,4 +18,4 @@
   </a>
 </div>
 
-##💻 Tech Stack:
+## 💻 Tech Stack:
