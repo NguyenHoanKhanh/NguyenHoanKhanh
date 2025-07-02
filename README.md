@@ -28,5 +28,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Intel_Quartus_Prime_logo.svg" width="40" height="40" alt="Quartus Prime" />
 </p>
 
-
-
+[![NguyenHoanKhanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenHoanKhanh)](https://github.com/NguyenHoanKhanh/github-readme-stats)
