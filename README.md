@@ -7,7 +7,7 @@
 
 ## Socials 🌐
 
-<div align="center">
+<div align="left">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khanh.nguyen.97491/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-ho%C3%A0n-9b1b93369/)  
