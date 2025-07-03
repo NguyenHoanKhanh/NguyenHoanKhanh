@@ -28,7 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Intel_Quartus_Prime_logo.svg" width="40" height="40" alt="Quartus Prime" />
 </p>
 
-## 📊 GitHub stats :
+## 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoanKhanh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
