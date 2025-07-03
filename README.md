@@ -5,7 +5,7 @@
 - 💬 Ask me about Verilog/VHDL, pipelined processors, and FPGA toolchains.
 - 🤓 I'm very interested in RTL, FPGA Design, Computer Architecture, etc.  
 
-## Socials 🌐
+## 🌐 Socials : 
 <div align="left">
   <a href="https://www.facebook.com/khanh.nguyen.97491/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## 💻 Languages and Tools:
+## 💻 Languages :
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
