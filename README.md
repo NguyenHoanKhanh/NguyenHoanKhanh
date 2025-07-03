@@ -29,11 +29,26 @@
 </p>
 
 ## 📊 GitHub stats :
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoanKhanh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoanKhanh&layout=donut&theme=tokyonight" alt="Top Langs" height ="165"/>
-  <img src="https://streak-stats.demolab.com/?user=denvercoder1&theme=tokyonight&date_format=[Y.]n.j" alt="GitHub Streak" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NguyenHoanKhanh&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="165"
+    style="background: transparent;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoanKhanh&layout=donut&theme=tokyonight"
+    alt="Top Langs"
+    height="165"
+    style="background: transparent;"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=denvercoder1&theme=tokyonight&date_format=[Y.]n.j"
+    alt="GitHub Streak"
+    height="165"
+    style="background: transparent;"
+  />
 </p>
+
 
 
