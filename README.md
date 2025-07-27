@@ -1,4 +1,8 @@
-## 👋 About Me:
+<h1>
+      <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40" alt="GIF" />
+      <b>Hi there! I'm Khanh Nguyen</b>
+</h1>
+## 🙋‍♂️ About Me:
 
 - 🎓 I'm currently studying at the University of Information Technology, VNU - HCM City.  
 - 🔭 I’m currently studying and working on IC design projects focusing on RTL design.
