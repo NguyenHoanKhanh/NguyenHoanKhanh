@@ -26,11 +26,11 @@
 ## 💻 Languages and tools:
 
 <p align="center">
-  <img src="https://www.logolynx.com/images/logolynx/46/460da7c1aab3a54ff2e1b1b03e5420e2.png" width="40" height="40" alt="C PNG" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="./assets/verilog-svgrepo-com.svg" width="40" height="40" alt="Verilog" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Py" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+<img src="./assets/verilog-svgrepo-com.svg" width="40" height="40" alt="Verilog" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Py" />
 </p>
 
 ## 📊 GitHub stats :
