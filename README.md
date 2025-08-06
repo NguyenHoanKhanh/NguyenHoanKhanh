@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🎓 I'm currently studying at the University of Information Technology, VNU - HCM City.  
+- 🎓I am currently pursuing a Bachelor's degree in Computer Engineering at the University of Information Technology, Vietnam National University - Ho Chi Minh City.
 - 🔭 I’m currently studying and working on IC design projects focusing on RTL design.
 - 💬 Ask me about Verilog, pipelined processors, and FPGA toolchains.
 - 🤓 I'm very interested in RTL, FPGA Design, Computer Architecture, etc.  
